@@ -48,3 +48,9 @@ Coding 1 is intentionally about fundamentals. Students are expected to develop e
 ## Attribution
 
 Selected lecture materials are adapted from the MIT-licensed `gabors-data-analysis/da-coding-python` course materials. See `NOTICE.md` for details.
+
+## AI Attribution
+
+AIA HAb SeCeNc Hin R GPT-5.5 Opus4.7 v1.0
+
+This statement documents how this repository was created. It does not change the course policy: students in Coding 1 will not use artificial intelligence tools or large language models for course work.
