@@ -4,7 +4,7 @@
 
 Before analyzing the data, data analysts spend a lot of time organizing, managing, and cleaning it to prepare it for analysis. This is called data wrangling or data munging. It is often said that 80 percent of data analysis time is spent on these tasks. Data wrangling is an iterative process: we usually start by organizing and cleaning our data, then start doing the analysis, and then go back to the cleaning process as problems emerge during analysis.
 
-Here we introduce students to a (relatively) easy way of carrying out this task and use the case study of [finding a good deal among hotels]((https://gabors-data-analysis.com/casestudies/#ch02a-finding-a-good-deal-among-hotels-data-preparation)). The initial data preparation, continues to work towards finding hotels that are underpriced relative to their location and quality. In this lecture, we illustrate how to find problems with observations and variables and how to solve those problems.
+Here we introduce students to a (relatively) easy way of carrying out this task and use the case study of [finding a good deal among hotels](https://gabors-data-analysis.com/casestudies/#ch02a-finding-a-good-deal-among-hotels-data-preparation). The initial data preparation, continues to work towards finding hotels that are underpriced relative to their location and quality. In this lecture, we illustrate how to find problems with observations and variables and how to solve those problems.
 
 ## This lecture
 
@@ -15,7 +15,7 @@ This lecture is based on [Chapter 02, A: Finding a good deal among hotels: data 
 
 
 ## Learning outcomes
-After successfully completing [`01_pandas_basics.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/01_pandas_basics.ipynb), students should be able to:
+After successfully completing [`01_pandas_basics.ipynb`](01_pandas_basics.ipynb), students should be able to:
 
   - create pandas `Series`
   - create pandas `DataFrames` from `Series`, dictionaries, lists
@@ -24,7 +24,7 @@ After successfully completing [`01_pandas_basics.ipynb`](https://github.com/gabo
   - rename columns
   - access metadata of `DataFrame`s
 
-After successfully completing [`02_pandas_data_munging.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/02_pandas_data_munging.ipynb), students should be able to:
+After successfully completing [`02_pandas_data_munging.ipynb`](02_pandas_data_munging.ipynb), students should be able to:
 
   - add variables
   - separate a character variable into two (or more) variables

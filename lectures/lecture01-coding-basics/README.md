@@ -7,7 +7,7 @@ In this lecture we jump into the very basics of Python. This is the beginning of
 
 ## This lecture
 
-We start with general coding principles, how to name variables, why and how to comment scripts, and we give some formatting tips. Then we cover basic variable types, assignments and operators. We end with string manipulations, showing hands-on examples how to automate the composition of SQL query strings. By the time you go through [`coding_basics.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture01-coding-basics/coding_basics.ipynb) you will get a taste of things to come. 
+We start with general coding principles, how to name variables, why and how to comment scripts, and we give some formatting tips. Then we cover basic variable types, assignments and operators. We end with string manipulations, showing hands-on examples how to automate the composition of SQL query strings. By the time you go through [`coding_basics.ipynb`](coding_basics.ipynb) you will get a taste of things to come. 
 
 
 ## Learning outcomes

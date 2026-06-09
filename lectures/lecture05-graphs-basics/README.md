@@ -30,7 +30,7 @@ Case studies used/related in/to this lecture:
 
 
 ## Learning outcomes
-After completing [`01_plotnine_intro.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture05-graphs-basics/01_plotnine_intro.ipynb) students should be able to:
+After completing [`01_plotnine_intro.ipynb`](01_plotnine_intro.ipynb) students should be able to:
 
   - create `ggplot` objects with different types of figures using `geoms` 
   - manipulating axis with `scale_*_continuous` and `scale_*_discrete`, where `*` stands for `y` or `x`
@@ -46,7 +46,7 @@ After completing [`01_plotnine_intro.ipynb`](https://github.com/gabors-data-anal
   - violine plot
   - use `color[x]` color values from a pre-defined list
 
-After completing [`02_matplotlib_intro.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture05-graphs-basics/02_matplotlib_intro.ipynb) students should be able to:
+After completing [`02_matplotlib_intro.ipynb`](02_matplotlib_intro.ipynb) students should be able to:
 
 - the two key object in a `matplotlib` plot
   - `Figure` 
@@ -66,7 +66,7 @@ After completing [`02_matplotlib_intro.ipynb`](https://github.com/gabors-data-an
 
 Ideal overall time: **30-60mins**.
 
-Showing [`plotnine_intro.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture05-graphs-basics/plotnine_intro.ipynb) takes around *30 minutes* while doing the tasks would take approx *10-15 minutes*. Showing [`matplotlib_intro.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture05-graphs-basics/matplotlib_intro.ipynb) takes around *15-20 minutes*.
+Showing [`01_plotnine_intro.ipynb`](01_plotnine_intro.ipynb) takes around *30 minutes* while doing the tasks would take approx *10-15 minutes*. Showing [`02_matplotlib_intro.ipynb`](02_matplotlib_intro.ipynb) takes around *15-20 minutes*.
 
 ## Further material
 

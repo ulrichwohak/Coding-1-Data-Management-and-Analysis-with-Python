@@ -7,7 +7,7 @@ Reading and writing files is a regular step in all software applications. All da
 
 ## This lecture
 
-This [short module](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture03-data-IO/data_IO.ipynb) shows you how to read text files from the file system, how to write and save files, and how to navigate in the file system using the `os` module. 
+This [`data_IO.ipynb`](data_IO.ipynb) module shows you how to read text files from the file system, how to write and save files, and how to navigate in the file system using the `os` module. 
 
 
 ## Learning outcomes
@@ -36,4 +36,3 @@ Ideal overall time: **10 mins**.
 ## Homework
 
 Explore the directory of your Python environment (from which you are running these codes) using the `os` module. List the content of your directory and create a new subfolder there. Write a short text in new text file saved in this directory. Read the [docs](https://docs.python.org/3/library/os.html) how to delete files and directories, and delete this new directory and the file you have just saved there. 
-

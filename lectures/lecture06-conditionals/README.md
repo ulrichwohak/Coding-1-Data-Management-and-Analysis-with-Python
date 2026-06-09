@@ -10,7 +10,7 @@ This lecture introduces students to conditional programming with `if-else` state
 
 
 ## Learning outcomes
-After successfully live-coding the material (see: [`conditionals_and_control_flows.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture06-conditionals/conditionals_and_control_flows.ipynb)), students will have knowledge on
+After successfully live-coding the material (see: [`conditionals_and_control_flows.ipynb`](conditionals_and_control_flows.ipynb)), students will have knowledge on
 
 - how a conditional statement works
 - what are the crucial elements of an `if-else` statement

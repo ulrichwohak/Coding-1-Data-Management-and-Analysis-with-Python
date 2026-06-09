@@ -26,7 +26,7 @@ This lecture uses [Chapter 06, A](https://gabors-data-analysis.com/casestudies/#
 
 
 ## Learning outcomes
-After completing the codes in [`data_exploration.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture07-data-exploration/data_exploration.ipynb), students should be able to:
+After completing the codes in [`data_exploration.ipynb`](data_exploration.ipynb), students should be able to:
 
   - `describe` for a quick summary of all variables in the dataframe
   - `skim` from the `skimpy` package for a nicer looking descriptive table
@@ -61,7 +61,7 @@ After completing the codes in [`data_exploration.ipynb`](https://github.com/gabo
 
 Ideal overall time: **70-100mins**.
 
-Showing [`data_exploration.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture07-data-exploration/data_exploration.ipynb) takes around *50 minutes* while doing the tasks would take the rest.
+Showing [`data_exploration.ipynb`](data_exploration.ipynb) takes around *50 minutes* while doing the tasks would take the rest.
 
 I highly recommend doing all the tasks as this lecture involves many new functions.
 If you do not have the needed time for one lecture, you may take this into two parts. Good breakpoints are:
