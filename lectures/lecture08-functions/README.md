@@ -16,7 +16,7 @@ This lecture introduces functions, how they are structured and how to write them
 
 
 ## Learning outcomes
-After successfully live-coding the material (see: [`functions.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture08-functions/functions.ipynb)), students will know on
+After successfully live-coding the material (see: [`functions.ipynb`](functions.ipynb)), students will know on
 
 - how to create user definded functions
 - what is the structure of a function
@@ -31,7 +31,7 @@ Ideal overall time: **20-30 mins**.
 
 ## Homework
 
-*Type*: quick practice, approx 15 mins, together with [lecture06-conditionals](https://github.com/gabors-data-analysis/da-coding-python/edit/main/lecture06-conditionals).
+*Type*: quick practice, approx 15 mins, together with [`lecture06-conditionals`](../lecture06-conditionals/).
 
 Bootstrapping - using the [`sp500`](https://gabors-data-analysis.com/datasets/#sp500) data
 

@@ -15,7 +15,7 @@ This lecture introduces regressions via [hotels-vienna dataset](https://gabors-d
 This lecture is based on [Chapter 07, A: *Finding a good deal among hotels with simple regression*](https://gabors-data-analysis.com/casestudies/#ch07a-finding-a-good-deal-among-hotels-with-simple-regression)
 
 ## Learning outcomes
-After successfully completing [`hotels_intro_to_regression.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture10-intro-to-regression/intro_to_regression.ipynb) students should be able:
+After successfully completing [`intro_to_regression.ipynb`](intro_to_regression.ipynb) students should be able:
 
   - Binary means:
     - Calculate prediction based on means of two categories and create an annotated graph
@@ -40,7 +40,7 @@ After successfully completing [`hotels_intro_to_regression.ipynb`](https://githu
 
 Ideal overall time: **60 mins**.
 
-Going through [`hotels_intro_to_regression.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture10-intro-to-regression/intro_to_regression.ipynb) takes around *45-50 minutes*, the rests are the tasks.
+Going through [`intro_to_regression.ipynb`](intro_to_regression.ipynb) takes around *45-50 minutes*, the rests are the tasks.
 
 
 ## Homework

@@ -9,7 +9,7 @@ In this course, we focus on Python and Jupyter Notebook. This means you won’t 
 This is the starting lecture, that introduces students to Python and Jupyter notebook (download and install), installs the virtual environment, runs a pre-written script, and highlights the importance of version control.
 
 The aim of this class is not to teach coding, but to make sure that everybody has Python, Jupyter Notebook and the virtual environment installed on their laptop. The main aim of these steps is to reveal possible OS mismatches or other problems with R and RStudio. 
-The material and steps are detailed in [`getting_started.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture00-intro/getting_started.ipynb) and [`setup.md`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture00-intro/setup.md).
+The material and steps are detailed in [`getting_started.ipynb`](getting_started.ipynb) and [`setup.md`](setup.md).
 
 
 ## Learning outcomes

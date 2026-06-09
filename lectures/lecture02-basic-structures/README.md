@@ -21,7 +21,7 @@ Finally, we show how to import, use, and write `modules`.
 
 ## Learning outcomes
 
-After completing this [basic_structures.ipynb](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture02-basic-structures/basic_structures.ipynb) lecture students will 
+After completing this [`basic_structures.ipynb`](basic_structures.ipynb) lecture students will 
 
 - understand the similarities and differences between the four Python collections
 - be able to inspect, search and modify lists
@@ -60,4 +60,3 @@ Create another dictionary with overlapping keys with the first one but different
 
 ## Further material
 - [Official Python tutorial](https://docs.python.org/2/tutorial/datastructures.html) on lists, tuples, set & dictionaries. 
-

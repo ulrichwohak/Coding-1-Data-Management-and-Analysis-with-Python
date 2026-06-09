@@ -13,7 +13,7 @@ We introduce `try` and `except`, and offer a few simple examples on how to '_cat
 
 ## Learning outcomes 
 
-After completing [exception_handling.ipynb](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture09-exception-handling/exception_handling.ipynb) students should be able to :
+After completing [`exception_handling.ipynb`](exception_handling.ipynb) students should be able to:
 
 - Test code chunks for potential errors
 - Control how to handle these exceptions
@@ -53,4 +53,3 @@ Define a complex `try` - `except` block which handles all false user input which
 - when division with zero
 - when using strings instead of numbers
 - in case of other false input. 
-
