@@ -1,0 +1,23 @@
+[project]
+name = "coding-1-data-management-and-analysis-with-python"
+version = "2026.0.0"
+description = "Course materials for Coding 1: Data Management and Analysis with Python."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "ipykernel>=6.29",
+    "jupyterlab>=4.4",
+    "matplotlib>=3.8,<3.11",
+    "mizani>=0.11",
+    "numpy>=1.26,<3",
+    "pandas>=2.2,<3",
+    "patchworklib>=0.6,<0.7",
+    "plotnine>=0.13,<0.16",
+    "scipy>=1.12,<2",
+    "skimpy>=0.0.18",
+    "stargazer>=0.0.7",
+    "statsmodels>=0.14,<0.16",
+]
+
+[tool.uv]
+package = false
